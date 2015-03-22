@@ -2,7 +2,7 @@
 ##The function, makeCacheMatrix creates a list containing 4 functions to:
 
 ##set the value of the matrix
-##get the value of the vector
+##get the value of the matrix
 ##set the value of the inverse
 ##get the value of the inverse
 
